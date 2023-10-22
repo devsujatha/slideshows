@@ -7,7 +7,7 @@ var adURL = new Array("https://www.cairn.info/revue-journal-of-innovation-econom
                     "https://www.jstor.org/stable/3484319",
                     "https://www.aeologic.com/blog/the-impact-of-emerging-technologies-on-the-transport-system/");
 var adImages = new
-Array("images/defense.jpg","images/education.jpg","images/law.jpg","images/manufacturing.jpg","images/trading.jpg","images/transport.jpg");
+Array("defense.jpg","education.jpg","law.jpg","manufacturing.jpg","trading.jpg","transport.jpg");
 
 var adTitles = [
     "Technology trends in Defense",
